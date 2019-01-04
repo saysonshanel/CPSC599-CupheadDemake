@@ -1,4 +1,4 @@
-## Cuphead The Demake
+# Cuphead The Demake
 
 A retrogame version of <i>Cuphead (2017)</i> created by Nicole Lefebvre, Maria Mamaclay, and Shanel Sayson.<br>
 
